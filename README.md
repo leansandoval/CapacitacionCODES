@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Empresa-CODES-1F4F90?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CODES" />
   <img src="https://img.shields.io/badge/Año-2023-2EA043?style=for-the-badge" alt="2023" />
   <img src="https://img.shields.io/badge/Estado-Completado-blue?style=for-the-badge" alt="Completado" />
+  <img src="https://img.shields.io/badge/Lenguaje-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
 </div>
 
 <br>
