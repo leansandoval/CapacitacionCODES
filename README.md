@@ -5,8 +5,8 @@
   <!-- Badges -->
   <img src="https://img.shields.io/badge/Empresa-CODES-1F4F90?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CODES" />
   <img src="https://img.shields.io/badge/Año-2023-2EA043?style=for-the-badge" alt="2023" />
-  <img src="https://img.shields.io/badge/Estado-Completado-blue?style=for-the-badge" alt="Completado" />
   <img src="https://img.shields.io/badge/Lenguajes-C%23-682876?style=for-the-badge&logoColor=white" alt="C#" /><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /><img src="https://img.shields.io/badge/-HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /><img src="https://img.shields.io/badge/-CSS-2062AF?style=for-the-badge&logo=css&logoColor=white" alt="CSS" /><img src="https://img.shields.io/badge/-SQL-0078D4?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Estado-Completado-blue?style=for-the-badge" alt="Completado" />
 </div>
 
 <br>
